@@ -1,0 +1,1 @@
+cout<< "assin "<<ssin.good()<<" i < size: "<< (i < size);
